@@ -1,5 +1,5 @@
 " Plug installation & setup
-call plug#begin('/home/ivan/Dropbox/vim/.vim/plugged')
+call plug#begin('~/git/dotfiles/vim/.vim/plugged')
 
 Plug 'scrooloose/nerdtree'
 Plug 'jistr/vim-nerdtree-tabs'
